@@ -51,4 +51,5 @@ Documentation of the code for the core track 2017.
    
    This would generate the query file with expansion terms. Make sure the index field in this generated file is pointing to the correct one, then run this query to see the performance. 
    
+   This step is very time-consuming, try the para-gen-query.py to run different parameters parallel. 
    
